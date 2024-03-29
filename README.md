@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi👋, I'm Yongbei Kuang
+
+To my ![Visitor Count](https://profile-counter.glitch.me/KoryKL/count.svg) th visior🎉
+
+- 🏫 Master of Information System Managment @ CMU 26'
+- 🧑‍🎓 Bachelor of Science in Information System & Information Managment @ NEU 24'
+- 🔭 Product Intern @ JD.com 23'
+
+![Yongbei's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoryKL&show_icons=true&theme=tokyonight)
 
 <!--
 **KoryKL/KoryKL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
